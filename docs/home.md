@@ -17,7 +17,8 @@ For example,
 | Purpose | URL |
 |-----|
 | Display a standard Docsify page | https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources |
-| Only display page content (i.e., no sidebar or optional navbar | https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources?standalone=true |
+| Only display page content (i.e., no sidebar or optional navbar | https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources<b>?standalone=true</b> |
+|----|
 
 To optionally show a page Table of Contents (based on included Headers), use the following:
 
