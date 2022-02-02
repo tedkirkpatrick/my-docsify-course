@@ -26,7 +26,7 @@ For example,
       <td>https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources</td>
     </tr>
     <tr>
-      <td>Only display page content (i.e., no sidebar or optional navbar</td>
+      <td>Only display page content (i.e., no sidebar or optional navbar)</td>
       <td>https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources<b>?standalone=true</b></td>
     </tr>
   </tbody>
