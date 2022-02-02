@@ -13,12 +13,24 @@ To only display Docsify page content, add the following to a Docsify page URL:
 
 For example,
 
-|-----|
-| Purpose | URL |
-|-----|
-| Display a standard Docsify page | https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources |
-| Only display page content (i.e., no sidebar or optional navbar | https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources<b>?standalone=true</b> |
-|----|
+<table>
+  <thead>
+    <tr>
+      <th>Purpose</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Display a standard Docsify page</td>
+      <td>https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources</td>
+    </tr>
+    <tr>
+      <td>Only display page content (i.e., no sidebar or optional navbar</td>
+      <td>https://paulhibbitts.github.io/test-docsify-open-pages-starter-kit/#/resources<b>?standalone=true</b></td>
+    </tr>
+  </tbody>
+</table>
 
 To optionally show a page Table of Contents (based on included Headers), use the following:
 
